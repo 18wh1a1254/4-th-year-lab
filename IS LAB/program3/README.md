@@ -4,4 +4,4 @@ algorithms
 a. Ceaser Cipher
 
 #output
-![output](CeaserCipher)
+![output](CeaserCipher.png)
